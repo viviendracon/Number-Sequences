@@ -1,3 +1,7 @@
+- Vivien Dracon
+- GPT o3
+- Gemini 2.5 Pro
+- Sonnet 3.7 Sonnet
 # Full-Period Prime Reciprocals in a Modified Exponential Sequence
 
 ## Abstract
