@@ -1,3 +1,7 @@
+- Vivien Dracon
+- GPT o3
+- Gemini 2.5 Pro
+- Sonnet 3.7 Sonnet
 # A Comparative Study of Primes and Periods in the Sequences $2^{2n+5}+2^{n+2}+1$ and $2^{2n+5}+2^{n+2}+3$
 
 ## Abstract
