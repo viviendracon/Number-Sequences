@@ -1,3 +1,7 @@
+- Vivien Dracon
+- GPT o3
+- Gemini 2.5 Pro
+- Sonnet 3.7 Sonnet
 # Exploring the Twin-Prime Phenomenon in Two Related Exponential Sequences
 
 ## Abstract
